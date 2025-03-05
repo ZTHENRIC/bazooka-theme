@@ -1,0 +1,24 @@
+{
+  "name": "bazooka-theme",
+  "displayName": "Bazooka Theme",
+  "description": "theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.2"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bazooka",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bazooka-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "bazooka-theme": "file:"
+  }
+}
