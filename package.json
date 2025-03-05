@@ -20,5 +20,10 @@
   },
   "dependencies": {
     "bazooka-theme": "file:"
+  },
+  "publisher": "Zach Henrickson",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZTHENRIC/bazooka-theme.git"
   }
 }
